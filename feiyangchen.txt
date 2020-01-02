@@ -3,22 +3,22 @@
 My favorite quote, <span id="k">"The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them."</span> <!-- sjkfhskjf -->
 
 Hi there! I am Feiyang Chen, or you can call me Vance which sounds very similar to my Chinese name.
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<!-- sjkfhskjf -->
 
 Currently, I am a senior undergraduate and major in Computer Science. I have been pondering how machines can break out of their computational boundaries to understand human intelligence. As the nature of human communication is <span id="k">Multimodal</span>, I aspire to get computers to reach new heights in its understanding.
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<!-- sjkfhskjf -->
 
 At present, I am focusing on <span id="k">Multimodal Machine Translation</span> research advised by <a href ="https://scholar.google.com/citations?hl=en&user=QPLO3myO5PkC&view_op=list_works&sortby=pubdate/">Prof. Deyi Xiong</a> and <a href ="http://jin-qin.com/">Prof. Qin Jin</a>. From February 2019, I also once spent a wonderful time doing <span id="k">Discourse Translation</span> research worked with <a href ="https://scholar.google.com/citations?hl=en&user=r6JFa28AAAAJ&view_op=list_works&sortby=pubdate">Prof. Bonnie Webber</a> at <a href ="https://www.ed.ac.uk/">The University of Edinburgh</a>.
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<!-- sjkfhskjf -->
 
 For the summer of 2019, I was a research intern at <a href ="https://www.cmu.edu/">Carnegie Mellon University</a>, where I worked with <a href ="http://www.cs.cmu.edu/~mxu1">Prof. Min Xu</a> on the <span id="k">Computer Vision</span> research, including <span id="k">Unsupervised Saliency Detection, Biomedical Image Segmentation, and Data Simulation</span> projects. During that time, I also have the opportunity to do <span id="k">Improving Adversarial Training</span> research with Ph.D. Candidate <a href ="https://www.cs.cmu.edu/~haohanw/">Haohan Wang</a> at <a href ="https://www.lti.cs.cmu.edu/">LTI</a> in <a href ="https://www.cmu.edu/">CMU</a>.
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<!-- sjkfhskjf -->
 
 Prior to that, I joined the <a href ="http://lanco.pku.edu.cn/">Key Laboratory of Computational Linguistics</a> at <a href ="http://english.pku.edu.cn/">Peking University</a> as a research intern mentored by <a href ="https://xusun.org/">Prof. Xu Sun</a>, to get a better grasp on <span id="k">Natural Language Generation</span>. Previously, I was a research intern at the <a href ="http://www.csai.tsinghua.edu.cn/">State Key Laboratory of Intelligent Technology and Systems</a> at <a href ="https://www.tsinghua.edu.cn/publish/thu2018en/index.html">Tsinghua University</a> for one year, focusing on <span id="k">Multimodal Sentiment Analysis and Audio Signal Processing</span> research advised by <a href ="http://www.csai.tsinghua.edu.cn/iar/en/group_members/xuhua.htm">Prof. Hua Xu</a>.
 <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> 
 
 BTW, I love Open-Source Community and I am the core member of some Open Source Organizations, such as <a href ="https://github.com/TheAlgorithms">The Algorithms</a> and <a href ="https://github.com/apachecn">ApacheCN</a>. I am also an <a href ="https://www.ieee.org/">IEEE</a> student member.
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+<!-- sjkfhskjf -->
 
 This year I will apply for a Master/Ph.D. Here is my <a href ="https://drive.google.com/open?id=17FVP06vmCIJY5lyZaW320CsTX3E3zU15">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don't hesitate to <a href="mailto: feiyangchen98@gmail.com">contact me</a>!
 <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> 
