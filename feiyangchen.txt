@@ -9,7 +9,8 @@ This year I will apply for a Master/Ph.D. If you are interested in me or looking
 
 <p>My research interests include: <br> <a href ="https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf">Multimodal Machine Learning </a> <br> <a href ="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing </a> <br> <a href ="https://en.wikipedia.org/wiki/Audio_signal_processing">Audio Signal Processing </a> and <br> <a href ="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision </a> <br><br>Do you want to see some of my projects? <a href="https://github.com/Eurus-Holmes"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-I love Open-Source Community and I am also a collaborator of the Open Source Organization <a href ="https://github.com/TheAlgorithms">The Algorithms </a> and <a href ="https://github.com/apachecn">ApacheCN. </a> 
+Also, I love Open-Source Community and I am the core member of some Open Source Organizations, such as <a href ="https://github.com/TheAlgorithms">The Algorithms</a> and <a href ="https://github.com/apachecn">ApacheCN</a>. I am also an <a href ="https://www.ieee.org/">IEEE</a> student member.
+
 
 You can learn more about me on another <a href="https://fychen.net/"> website</a>.</p> If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: feiyang@fychen.top">feiyang@fychen.top</a>.
 
