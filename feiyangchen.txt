@@ -3,7 +3,7 @@
 My favorite quote, <span id="k">"The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them."</span> <!-- sjkfhskjf -->
 
 
-Hi there! I am Feiyang Chen, or you can call me Vance. I am an incoming CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. Currently, I’m working as an R&D intern at <a href ="https://www.apple.com/">Apple</a>. My research interest focuses on Multimodal Machine Learning (especially in NLP and CV). Here is my <a href ="https://drive.google.com/file/d/1DhALmmZqb6wTc5PXP4VhOvrf-E5-9Y8K/view?usp=sharing">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don’t hesitate to <a href="mailto: feiyang@fychen.top">contact me</a>!
+Hi there! I am Feiyang, or you can call me Vance. I am an incoming CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. Currently, I’m working as an R&D intern at <a href ="https://www.apple.com/">Apple</a>. My research interest focuses on Multimodal Machine Learning (especially in NLP and CV). Here is my <a href ="https://drive.google.com/file/d/1DhALmmZqb6wTc5PXP4VhOvrf-E5-9Y8K/view?usp=sharing">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don’t hesitate to <a href="mailto: feiyang@fychen.top">contact me</a>!
 
 <!-- sjkfhskjf -->
 
