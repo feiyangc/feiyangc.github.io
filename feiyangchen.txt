@@ -7,7 +7,7 @@ Hi there! I am Feiyang, or you can call me Vance. I am an incoming CS graduate s
 
 <!-- sjkfhskjf -->
 
-My research topic lies widely in the scope of Multimodal Machine Learning, Natural Language Processing, Computer Vision, and Audio Signal Processing. I have been pondering how machines can break out of their computational boundaries to understand human intelligence. As the nature of human communication is Multimodal, I aspire to get computers to reach new heights in its understanding.
+My research topic lies widely in the scope of Multimodal Machine Learning, Natural Language Processing, Computer Vision, and Audio Signal Processing. I have been pondering how machines can break out of their computational boundaries to understand human intelligence. As the nature of human communication is Multimodal, I aspire to get computers to reach new heights in their understanding.
 
 <!-- sjkfhskjf -->
 
