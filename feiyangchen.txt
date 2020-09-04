@@ -3,7 +3,7 @@
 My favorite quote, <span id="k">"The thing that’s worth doing is trying to improve our understanding of the world and gain a better appreciation of the universe and not to worry too much about there being no meaning."</span> <!-- sjkfhskjf -->
 
 
-Hi there! I am Feiyang, or you can call me Vance. I am an incoming CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. Currently, I’m working as an R&D intern at <a href ="https://www.apple.com/">Apple</a>. My research interest focuses on Multimodal Machine Learning (especially in NLP and CV). Here is my <a href ="https://drive.google.com/file/d/1DhALmmZqb6wTc5PXP4VhOvrf-E5-9Y8K/view?usp=sharing">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don’t hesitate to <a href="mailto: feiyang@fychen.top">contact me</a>!
+Hi there! I am Feiyang, or you can call me Vance. I am an incoming CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. Currently, I’m working as an R&D intern at <a href ="https://www.apple.com/">Apple</a>. My research interest focuses on Multimodal Machine Learning (especially in NLP and CV). Here is my <a href ="https://drive.google.com/file/d/17FVP06vmCIJY5lyZaW320CsTX3E3zU15/view?usp=sharing">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don’t hesitate to <a href="mailto: fychen@ucla.edu">contact me</a>!
 
 <!-- sjkfhskjf -->
 
@@ -14,7 +14,7 @@ My research topic lies widely in the scope of Multimodal Machine Learning, Natur
 
 <br>Do you want to see some of my projects? <a href="https://github.com/Eurus-Holmes"> Here you go</a>.</p>
 
-You can learn more about me on another <a href="https://fychen.net/"> website</a>.</p> If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: feiyang@fychen.top">feiyang@fychen.top</a>.
+You can learn more about me on another <a href="https://fychen.net/"> website</a>.</p> If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: fychen@ucla.edu">fychen@ucla.edu</a>.
 
 <p>Cheers!</p>
 <span id="a">feiyang@chen</span>:<span id="b">~</span><span id="c">$</span> exit
