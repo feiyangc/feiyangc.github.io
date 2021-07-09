@@ -3,14 +3,14 @@
 My favorite quote, <span id="k">"The thing that’s worth doing is trying to improve our understanding of the world and gain a better appreciation of the universe and not to worry too much about there being no meaning."</span> <!-- sjkfhskjf -->
 
 
-Hi there! I am Feiyang, you can also call me Vance. I am an incoming CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. Currently, I’m working as an R&D intern at <a href ="https://www.apple.com/">Apple</a>. My research interest focuses on Multimodal Machine Learning and Healthcare/Bio-medicine. Here is my <a href ="https://drive.google.com/file/d/17FVP06vmCIJY5lyZaW320CsTX3E3zU15/view?usp=sharing">Résumé</a> and <a href ="https://drive.google.com/file/d/1mhUhs0zsHJDd17No6GUMkcK4p_y36E2c/view?usp=sharing">Research Statement</a>. If you are interested in me or looking for potential collaborators, please don’t hesitate to <a href="mailto: fychen@ucla.edu">contact me</a>!
-
+Hi there! I am Feiyang, you can also call me Vance. I'm a first-year CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. My current research interest focuses on multimodal machine learning and healthcare/bio-medicine. As the nature of human communication is multimodal, I aspire to get computers to reach new heights in their understanding and open up new avenues for AI in healthcare. I'm always open to collaborations on Multimodal and Interdisciplinary research topics, feel free to <a href="mailto: fychen@ucla.edu">contact me</a>!
 <!-- sjkfhskjf -->
 
-My research topic lies widely in the scope of Multimodal Machine Learning, Natural Language Processing, Computer Vision, and Audio Signal Processing. I have been pondering how machines can break out of their computational boundaries to understand human intelligence. As the nature of human communication is Multimodal, I aspire to get computers to reach new heights in their understanding.
+I have been pondering how machines can break out of their computational boundaries to understand human intelligence. My goal is to develop computationally efficient machine learning as well as deep learning models and algorithms, building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions. Applications include computer vision, natural language processing, audio signal processing, and drug discovery.
 
 
-<p>My research interests include: <br> <a href ="https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf">Multimodal Machine Learning </a> <br> <a href ="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing </a> <br> <a href ="https://en.wikipedia.org/wiki/Audio_signal_processing">Audio Signal Processing </a> and <br> <a href ="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision </a> <br><br>Do you want to see some of my projects? <a href="https://github.com/Eurus-Holmes"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>My research interests include: <br> <a href ="https://github.com/Eurus-Holmes/Awesome-Multimodal-Research">Multimodal Machine Learning</a>: representation, alignment, translation, fusion, and co-learning of heterogeneous data <br> <a href ="https://github.com/eugeneyan/applied-ml">Applied Machine Learning</a>: real-world applications in language, vision, speech, robotics, education, and self-driving <br> <a href ="https://plusx.ai/">AI + X</a>: AI for healthcare, finance, climate, agriculture, astronomy, art, and VR
+<br><br>Do you want to see some of my projects? <a href="https://github.com/Eurus-Holmes"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <!-- sjkfhskjf -->
 
