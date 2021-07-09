@@ -6,13 +6,13 @@ My favorite quote, <span id="k">"The thing that’s worth doing is trying to imp
 Hi there! I am Feiyang, you can also call me Vance. I'm a first-year CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. My research interests include: 
 
 <a href ="https://github.com/Eurus-Holmes/Awesome-Multimodal-Research">Multimodal Machine Learning</a>: 
-<br>representation, alignment, translation, fusion, and co-learning of heterogeneous data 
+representation, alignment, translation, fusion, and co-learning of heterogeneous data 
 <br> 
 <a href ="https://github.com/eugeneyan/applied-ml">Applied Machine Learning</a>: 
-<br>real-world applications in language, vision, speech, robotics, education, and self-driving 
+real-world applications in language, vision, speech, robotics, education, and self-driving 
 <br> 
 <a href ="https://plusx.ai/">AI + X</a>: 
-<br>AI for healthcare, finance, climate, agriculture, astronomy, art, and VR
+AI for healthcare, finance, climate, agriculture, astronomy, art, and VR
 
 
 I have been pondering how machines can break out of their computational boundaries to understand human intelligence. My goal is to develop computationally efficient machine learning as well as deep learning models and algorithms, building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions. Applications include computer vision, natural language processing, audio signal processing, and drug discovery.
