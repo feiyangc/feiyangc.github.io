@@ -3,8 +3,7 @@
 My favorite quote, <span id="k">"The thing that’s worth doing is trying to improve our understanding of the world and gain a better appreciation of the universe and not to worry too much about there being no meaning."</span> <!-- sjkfhskjf -->
 
 
-Hi there! I am Feiyang, you can also call me Vance. I'm a first-year CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. My current research interest focuses on multimodal machine learning and healthcare/bio-medicine. As the nature of human communication is multimodal, I aspire to get computers to reach new heights in their understanding and open up new avenues for AI in healthcare. I'm always open to collaborations on Multimodal and Interdisciplinary research topics, feel free to <a href="mailto: fychen@ucla.edu">contact me</a>!
-<!-- sjkfhskjf -->
+Hi there! I am Feiyang, you can also call me Vance. I'm a first-year CS graduate student at <a href ="http://www.ucla.edu/">UCLA</a>. My current research interest focuses on multimodal machine learning and healthcare/bio-medicine. As the nature of human communication is multimodal, I aspire to get computers to reach new heights in their understanding and open up new avenues for AI in healthcare. 
 
 I have been pondering how machines can break out of their computational boundaries to understand human intelligence. My goal is to develop computationally efficient machine learning as well as deep learning models and algorithms, building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions. Applications include computer vision, natural language processing, audio signal processing, and drug discovery.
 
@@ -15,11 +14,9 @@ I have been pondering how machines can break out of their computational boundari
 <!-- sjkfhskjf -->
 
 
-<br>Do you want to see some of my projects? <a href="https://github.com/Eurus-Holmes"> Here you go</a>.</p>
+I'm always open to collaborations on Multimodal and Interdisciplinary research topics, feel free to <a href="mailto: fychen@ucla.edu">contact me</a>!
+<!-- sjkfhskjf -->
 
-
-
-You can learn more about me on another <a href="https://fychen.net/"> website</a>.</p> If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: fychen@ucla.edu">fychen@ucla.edu</a>.
 
 <p>Cheers!</p>
 <span id="a">feiyang@chen</span>:<span id="b">~</span><span id="c">$</span> exit
